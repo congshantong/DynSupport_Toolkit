@@ -25,10 +25,11 @@
 
 ### 2. Load the Extension in Your Browser
 To install the extension in **Google Chrome** or **Microsoft Edge**:
-- Open your browser and go to `chrome://extensions/`
+- Open your browser and go to `edge://extensions/`
 - Toggle **Developer mode** on (top-right corner)
 - Click **Load unpacked**
-- Select the **root folder** of the extracted ZIP package
+<br>![image](https://github.com/user-attachments/assets/319f5c60-9945-4ba4-89b0-23a7cb035dd3)
+- Select the **root folder** of the **extracted ZIP package**
 
 ### 3. Usage
 - Navigate to your **Dynamics 365** environmen
