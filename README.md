@@ -1,6 +1,6 @@
 # DynSupport Toolkit 🛠️
 
-**DynSupport Toolkit** is a browser extension designed to support Microsoft Dynamics 365 engineers and Customers. It streamlines common support tasks by providing quick access to key data such as component layers, solution version history, organization settings, and flow callback registrations.
+**DynSupport Toolkit** is a browser extension designed to support Dynamics 365 engineers and Customers. It streamlines common support tasks by providing quick access to key data such as component layers, solution version history, organization settings, and flow callback registrations.
 
 ---
 
@@ -24,7 +24,7 @@
 ---
 
 ### 2. Load the Extension in Your Browser
-To install the extension in **Google Chrome** or **Microsoft Edge**:
+To install the extension in **Google Chrome** or **Edge**:
 - Open your browser and go to `edge://extensions/`
 - Toggle **Developer mode** on (top-right corner)
 - Click **Load unpacked**
@@ -57,13 +57,13 @@ This extension is a **personal community project** and is **not officially suppo
 
 Please note the following data and privacy principles:
 
-- All APIs used are from **publicly available Microsoft Dynamics 365 Dataverse endpoints**.
+- All APIs used are from **publicly available Dynamics 365 Dataverse endpoints**.
 - All retrieved data is strictly **metadata only**, such as solution layers, callback registrations, and organizational settings.
 - **No business data or customer-specific content** is accessed or transmitted.
 - All operations are performed **locally in the user's browser** — no data is sent externally by the extension itself.
-- Any data shared with Microsoft Support must be **manually provided by the user**, in accordance with their own data protection policies.
-- This tool is designed **exclusively to assist with Microsoft technical support during issue investigation**.
-- **Usage must be under the guidance of Microsoft Support engineers**.
+- Any data shared with Support must be **manually provided by the user**, in accordance with their own data protection policies.
+- This tool is designed **exclusively to assist with technical support during issue investigation**.
+- **Usage must be under the guidance of Support engineers**.
 
 By using this tool, you acknowledge and agree to these terms.  
 If you have any concerns about data security or privacy, **please do not use this extension**.
